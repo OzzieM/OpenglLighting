@@ -1,0 +1,9 @@
+Primary Objectives:
+	Ambient Lighting - FINISHED
+	Diffuse Lighting - FINISHED
+	Specular Lighting - FINISHED
+	
+Secondary Objectives:
+	Make the light move - FINISHED 
+	Multiple Materials - FINISHED
+	

@@ -1,0 +1,11 @@
+﻿  penguin.cpp
+C:\Users\Proxie\source\repos\penguin\penguin\penguin.cpp(108,1): warning C4267: '=': conversion from 'size_t' to 'GLsizei', possible loss of data
+C:\Users\Proxie\source\repos\penguin\penguin\penguin.cpp(161,26): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\Proxie\source\repos\penguin\penguin\penguin.cpp(161,20): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\Proxie\source\repos\penguin\penguin\penguin.cpp(359,27): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Proxie\source\repos\penguin\penguin\penguin.cpp(360,26): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Proxie\source\repos\penguin\penguin\penguin.cpp(382,41): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Proxie\source\repos\penguin\penguin\penguin.cpp(386,52): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Proxie\source\repos\penguin\penguin\penguin.cpp(392,51): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Proxie\source\repos\penguin\penguin\penguin.cpp(400,56): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+  penguin.vcxproj -> C:\Users\Proxie\source\repos\penguin\x64\Debug\penguin.exe
